@@ -1,60 +1,60 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Osd2JHL.png", Россия
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Osd2JHL.png" group-title="Рус", Россия
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png", Россия24
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png" group-title="Рус", Россия24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/russia24-sd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4PAcpfM.png", Звезда
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4PAcpfM.png" group-title="Рус", Звезда
 https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ru/7/72/TV_Tsentr_2013_Logo.svg", ТВЦ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ru/7/72/TV_Tsentr_2013_Logo.svg" group-title="Рус", ТВЦ
 https://cdn4.skygo.mn/live/disk1/TV_center/HLSv3-FTA/TV_center.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/l0RGbRI.png", ТНТ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l0RGbRI.png" group-title="Рус", ТНТ
 https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gBokU5i.png", ТНТ24
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gBokU5i.png" group-title="Рус", ТНТ24
 https://cdn4.skygo.mn/live/disk1/TNT4/HLSv3-FTA/TNT4.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mwiC0RG.png", СТС
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mwiC0RG.png" group-title="Рус", СТС
 https://cdn4.skygo.mn/live/disk1/STS/HLSv3-FTA/STS.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/On6ggLe.png", Перец
+#EXTINF:-1 tvg-logo="https://i.imgur.com/On6ggLe.png" group-title="Рус", Перец
 https://cdn4.skygo.mn/live/disk1/Che/HLSv3-FTA/Che.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AqWaJT8.png", Мир24
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AqWaJT8.png" group-title="Рус", Мир24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AqWaJT8.png", Мир
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AqWaJT8.png" group-title="Рус", Мир
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/int/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r5HzA6J.png", Известия
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r5HzA6J.png" group-title="Рус", Известия
 https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UfmlXxe.png", Пятница
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UfmlXxe.png" group-title="Рус", Пятница
 https://cdn4.skygo.mn/live/disk1/Friday/HLSv3-FTA/Friday.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XVRwgom.png", Домашний
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XVRwgom.png" group-title="Рус", Домашний
 https://cdn4.skygo.mn/live/disk1/Domashni/HLSv3-FTA/Domashni.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5URjPgG.png", ETV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5URjPgG.png" group-title="Эст", ETV
 https://live.err.ee/live/etv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fUjGHDa.png", ETV2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fUjGHDa.png" group-title="Эст", ETV2
 https://live.err.ee/live/etv2.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/ETV%2B_logo.png", ETV+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/ETV%2B_logo.png" group-title="Эст", ETV+
 https://live.err.ee/live/etvpluss.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6yXZwUL.png", Yle1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6yXZwUL.png" group-title="Эст", Yle1
 https://live-fi.tvkaista.net/yle-tv1/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tUF33HD.png", BelRos
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tUF33HD.png" group-title="Рус", BelRos
 https://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BP7tY6F.png", Belarus24
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BP7tY6F.png" group-title="Рус", Belarus24
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%B1%D0%B5%D0%BB%D0%BE%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%C2%AB%D0%A1%D0%A2%D0%92%C2%BB.svg/512px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%B1%D0%B5%D0%BB%D0%BE%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%C2%AB%D0%A1%D0%A2%D0%92%C2%BB.svg.png", CTV
@@ -62,6 +62,13 @@ https://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XIk5EJN.png" group-title="Кино", Kino LV
 https://void.greenhosting.ru/MovifyKino_Mpeg4/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zsCPLs4.png" group-title="Кино", Кино1
+https://kino-1.catcast.tv/content/38617/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kKAM7dP.png" group-title="Кино", Твое
+http://tvoetv.space:8080/tvoetv/index.m3u8
 
 #EXTINF:-1 group-title="Кино",CityEden Action
 https://cityeden.catcast.tv/content/41327/index.m3u8
@@ -86,11 +93,6 @@ https://cityeden.catcast.tv/content/46209/index.m3u8
 #EXTINF:-1 group-title="Кино",CityEden Kids
 https://cityeden.catcast.tv/content/34246/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zsCPLs4.png" group-title="Кино", Кино1
-https://kino-1.catcast.tv/content/38617/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kKAM7dP.png" group-title="Кино", Твое
-http://tvoetv.space:8080/tvoetv/index.m3u8
 
 
 
