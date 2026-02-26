@@ -51,15 +51,6 @@ https://live.err.ee/live/etvpluss.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6yXZwUL.png", Yle1
 https://live-fi.tvkaista.net/yle-tv1/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4xkc6PL.png", Yle2
-https://live-fi.tvkaista.net/yle-tv2/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Yle_Teema_%26_Fem.svg/512px-Yle_Teema_%26_Fem.svg.png", YleFem
-https://live-fi.tvkaista.net/yle-teema-fem/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.tvkaista.org/assets/channelpics/wikipedia_viaplaytv.svg", ViaplayTV
-https://live-fi.tvkaista.net/viaplay-tv/live.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tUF33HD.png", BelRos
 https://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 
@@ -77,6 +68,7 @@ https://kino-1.catcast.tv/content/38617/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kKAM7dP.png", Твое
 http://tvoetv.space:8080/tvoetv/index.m3u8
+
 
 
 
